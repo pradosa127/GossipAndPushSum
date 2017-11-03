@@ -39,22 +39,23 @@ $  ./project2 49 2D push-sum
 
 # What is the largest network you managed to deal with for each type of topology and algorithm?
 Gossip Algorithm:
-Full Network:
+# Full Network:
 For nodes= 10000 we are getting the total time for Full network using Gossip algorithm as 530.562 seconds
-Imperfect 2D Grid:
+# Imperfect 2D Grid:
 For nodes = 10000 we are getting the total time for imp2D using Gossip algorithm as 760.556 seconds
-2D Grid:
+# 2D Grid:
 For nodes= 4900 we are getting the total time for 2D using Gossip algorithm as 4500.426 seconds
 Line:
 For nodes= 4900 we are getting the total time for Line using Gossip algorithm as 5610.364 seconds
-Push-Sum Algorithm:
-Full Network :
+
+# Push-Sum Algorithm:
+# Full Network :
 For nodes= 10000 we are getting the total time for Full network using Gossip algorithm as 90.002 seconds
-Imperfect 2D Grid :
+# Imperfect 2D Grid :
 For nodes = 10000 we are getting the total time for imp2D using Gossip algorithm as 350.80 seconds
 
-2D Grid :
+# 2D Grid :
 For nodes= 4900 we are getting the total time for 2D using Gossip algorithm as 1600.212 seconds
-Line :
+# Line :
 For nodes= 4900 we are getting the total time for Line using Gossip algorithm as 1746.66 seconds
 
