@@ -6,7 +6,7 @@ UFID: 1288-9584
 Supraba Muruganantham 
 UFID : 9215-9813
 
-What is working?
+# What is working?
 We have implemented both the Gossip and Push-Sum algorithms for the below four topologies using Elixir Genserver processes.
 	Full Network
 	2D Grid
@@ -37,7 +37,7 @@ $  ./project2 49 2D gossip
 To run Push-Sum algorithm using Imperfect 2D Grid network topology the command is as follows:
 $  ./project2 49 2D push-sum
 
-What is the largest network you managed to deal with for each type of topology and algorithm?
+# What is the largest network you managed to deal with for each type of topology and algorithm?
 Gossip Algorithm:
 Full Network:
 For nodes= 10000 we are getting the total time for Full network using Gossip algorithm as 530.562 seconds
